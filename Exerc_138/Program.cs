@@ -7,7 +7,7 @@ namespace Exerc_138
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)     
         {
             Console.Write("Digite o número de contribuintes: ");
             int num = int.Parse(Console.ReadLine());
